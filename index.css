@@ -313,6 +313,11 @@
   font-family: var(--font-bowlby-one);
   text-align: left;
 }
+.footer p{
+  font-size: 14px;
+  font-family: 'Courier New', Courier, monospace;
+  padding-right: 45px;
+}
 .footer {
   top: 2913px;
   left: 51px;
