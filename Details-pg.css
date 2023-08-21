@@ -11,6 +11,7 @@ header h1{
   font-family:'Bowlby One', sans-serif;
   font-size: 21px;
   color: #fff;
+  text-align: center;
 }
 .details-section {
   padding: 20px;
